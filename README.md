@@ -1,3 +1,8 @@
+### About This Fork  
+This is a fork of NTRU_python by pointedsphere
+pointedsphere ([repo](https://github.com/pointedsphere/NTRU_python)).  
+Licensed under GNU GPL-3.0.  
+
 # NTRU in python
 
 An implementation of the NTRU encryption and decryption algorithm in Python 3 following the original paper by Hoffstein, Pipher and Silverman [1].
